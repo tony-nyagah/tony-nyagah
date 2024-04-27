@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data science and Go.**
 
-- 👨‍💻 All of my projects are available at [tony-nyagah.github.io](https://tony-nyagah.github.io)
+- 👨‍💻 All of my projects are available at [tony-nyagah.github.io](https://tony-nyagah.github.io), a work in progress.
 
 - 💬 Ask me about **Python, Django and Vue.**
 
