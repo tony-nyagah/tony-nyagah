@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,</h1>
+<h1 align="center">Hi I'm Antony,</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
 - 🌱 I’m currently learning **data science and Go.**
