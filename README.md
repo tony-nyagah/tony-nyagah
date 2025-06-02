@@ -1,11 +1,11 @@
 <h1 align="center">Hi I'm Antony Nyagah,</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
-- 🌱 I’m currently learning **data science and Go.**
+- 🌱 I’m currently helping build the [Fedora Release Schedule Planner](https://codeberg.org/fedora/release-schedule-planner)
 
-- 👨‍💻 All of my projects are available at [tony-nyagah.github.io](https://tony-nyagah.github.io), a work in progress.
+- 👨‍💻 All of my projects and other things I am doing are visible at [tony-nyagah.github.io](https://antonynyagah.com), a work in progress.
 
-- 💬 Ask me about **Python, Django and Vue.**
+- 💬 Ask me about **Python, Django, Vue.**
 
 - ⚡ Fun fact **I got into data science because I like charts.**
 
