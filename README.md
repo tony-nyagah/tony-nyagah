@@ -45,15 +45,15 @@ As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - one of Africa
 
 ## 🏆 Certifications
 
-🎓 **ALX Africa & DataCamp Certified Data Scientist**  
-☁️ **AWS Certified Cloud Practitioner**
+☁️ **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/9680beae-156a-4a7c-a5b6-1463f2134876)**
+🎓 **[ALX Africa Certified Data Scientist](https://savanna.alxafrica.com/certificates/FmPCRYe89r)**
+📈 **[DataCamp Certified Data Scientist](https://www.datacamp.com/certificate/DSA0011358609209)**  
 
 ---
 
 ## 🚧 Currently Working On
 
 - 🐧 **Fedora Release Schedule Planner** - Contributing to better release planning and schedule management for Fedora versions
-- 💼 **Leading software development at HuQAS** - Building quality assessment solutions for Africa
 - 🔧 **Backend systems optimization** - Improving performance and scalability
 
 ## 📚 Currently Learning
