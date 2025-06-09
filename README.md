@@ -45,9 +45,9 @@ As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - one of Africa
 
 ## 🏆 Certifications
 
-☁️ **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/9680beae-156a-4a7c-a5b6-1463f2134876)**
-🎓 **[ALX Africa Certified Data Scientist](https://savanna.alxafrica.com/certificates/FmPCRYe89r)**
-📈 **[DataCamp Certified Data Scientist](https://www.datacamp.com/certificate/DSA0011358609209)**  
+* ☁️ **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/9680beae-156a-4a7c-a5b6-1463f2134876)**
+* 🎓 **[ALX Africa Certified Data Scientist](https://savanna.alxafrica.com/certificates/FmPCRYe89r)**
+* 📈 **[DataCamp Certified Data Scientist](https://www.datacamp.com/certificate/DSA0011358609209)**  
 
 ---
 
