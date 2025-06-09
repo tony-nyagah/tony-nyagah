@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Tony Nyagah
+# 👋 Hi, I'm Antony Nyagah
 
 ### 🚀 Software Engineer | Data Enthusiast | Open Source Contributor
 *Turning complex problems into elegant solutions, one line of code at a time*
