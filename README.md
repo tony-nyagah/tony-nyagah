@@ -66,7 +66,7 @@ As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - one of Africa
 
 ## 🎯 Featured Projects
 
-### 🔗 [Afri Quantum intelligence Solutions website](https://aqis-eight.vercel.app/)
+### 🔗 [Afri Quantum Intelligence Solutions website](https://aqis-eight.vercel.app/)
 The website for Afri Quantum intelligence Solutions. A company that provides solutions to company challenges by leveraging AI.
 
 ### 🔐 [Domain Certificate Monitor](https://github.com/tony-nyagah/domain-monitor)
