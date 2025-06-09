@@ -1,24 +1,121 @@
-<h1 align="center">Hi I'm Antony Nyagah,</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Tony Nyagah
 
-- 🌱 I’m currently helping build the [Fedora Release Schedule Planner](https://codeberg.org/fedora/release-schedule-planner)
+### 🚀 Software Engineer | Data Enthusiast | Open Source Contributor
+*Turning complex problems into elegant solutions, one line of code at a time*
 
-- 👨‍💻 All of my projects and other things I am doing are visible at [tony-nyagah.github.io](https://antonynyagah.com), a work in progress.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-nyagah/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black)](https://tony-nyagah.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tony.m.nyagah@gmail.com)
 
-- 💬 Ask me about **Python, Django, Vue.**
+</div>
 
-- ⚡ Fun fact **I got into data science because I like charts.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nyagahtony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyagahtony" height="30" width="40" /></a>
-<!-- <a href="https://linkedin.com/in/antony-nyagah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-nyagah" height="30" width="40" /></a> -->
-</p>
+## 🧑‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I'm a passionate **Software Engineer** and **Outreachy Intern** contributing to the **Fedora Project**, with a strong focus on backend development and data insights. I love solving complex problems and transforming raw data into meaningful, understandable visualizations.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tony-nyagah&show_icons=true&locale=en&layout=compact" alt="tony-nyagah" /></p>
+As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - Africa's leading external quality assessment provider - I've gained valuable experience in building robust systems that make a real-world impact.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tony-nyagah&" alt="tony-nyagah" /></p>
+---
 
+## 🔧 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Data & Database
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+🎓 **ALX Africa & DataCamp Certified Data Scientist**  
+☁️ **AWS Certified Cloud Practitioner**
+
+---
+
+## 🚧 Currently Working On
+
+- 🐧 **Fedora Release Schedule Planner** - Contributing to better release planning and schedule management for Fedora versions
+- 💼 **Leading software development at HuQAS** - Building quality assessment solutions for Africa
+- 🔧 **Backend systems optimization** - Improving performance and scalability
+
+## 📚 Currently Learning
+
+- 🤖 **AI Agents & Automation** - Exploring intelligent automation solutions
+- 🦀 **Advanced Go concepts** - Deepening my knowledge in concurrent programming
+- ☁️ **Cloud Architecture** - Expanding AWS expertise beyond fundamentals
+
+---
+
+## 🎯 Featured Projects
+
+### 🔐 [Domain Certificate Monitor](https://github.com/tony-nyagah/domain-monitor)
+A Go-based tool that monitors domain SSL certificates and alerts you when they're about to expire. Perfect for maintaining website security and avoiding downtime.
+
+### ✉️ [Email Verifier](https://github.com/tony-nyagah/simple-email-verifier)
+A lightweight Go application that validates email addresses by checking if they're active and can receive emails. Great for cleaning mailing lists and improving email deliverability.
+
+### 🏥 [Healthcare Accessibility Analysis](https://github.com/tony-nyagah/data-monday/tree/main/src/data_monday/healthcare-datathon)
+**🥇 First Place Datathon Winner** - Analyzed healthcare accessibility in Nairobi/Kenya, creating insightful visualizations that revealed important patterns in healthcare distribution and access.
+
+---
+
+## 💡 What I Love About Programming
+
+- 🧩 **Problem Solving** - Breaking down complex challenges into manageable solutions
+- 📊 **Data Insights** - Extracting meaningful patterns from raw data
+- 📈 **Data Visualization** - Making complex information accessible and understandable
+- 🤝 **Open Source** - Contributing to projects that make a difference
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always open to interesting projects and collaborations! Whether it's:
+- 🌐 Backend development challenges
+- 📊 Data analysis and visualization projects  
+- 🐧 Open source contributions
+- 🚀 Innovative problem-solving
+
+Feel free to reach out - let's build something amazing together!
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony-nyagah&show_icons=true&theme=radical&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tony-nyagah&theme=radical&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-nyagah&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=ffffff&border_color=FFD700)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+*Thanks for visiting! Don't forget to ⭐ repositories you find interesting!*
+
+</div>
