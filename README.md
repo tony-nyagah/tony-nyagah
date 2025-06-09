@@ -17,7 +17,7 @@
 
 I'm a passionate **Software Engineer** and **Outreachy Intern** contributing to the **Fedora Project**, with a strong focus on backend development and data insights. I love solving complex problems and transforming raw data into meaningful, understandable visualizations.
 
-As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - one of Africa's leading external quality assessment provider I haveve gained valuable experience in building robust systems that make a real-world impact.
+As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - one of Africa's leading external quality assessment provider I have gained valuable experience in building robust systems that make a real-world impact.
 
 ---
 
