@@ -66,6 +66,9 @@ As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - one of Africa
 
 ## 🎯 Featured Projects
 
+### 🔗 [Afri Quantum intelligence Solutions website](https://aqis-eight.vercel.app/)
+The website for Afri Quantum intelligence Solutions. A company that provides solutions to company challenges by leveraging AI.
+
 ### 🔐 [Domain Certificate Monitor](https://github.com/tony-nyagah/domain-monitor)
 A Go-based tool that monitors domain SSL certificates and alerts you when they're about to expire. Perfect for maintaining website security and avoiding downtime.
 
