@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Software Engineer** and **Outreachy Intern** contributing to the **Fedora Project**, with a strong focus on backend development and data insights. I love solving complex problems and transforming raw data into meaningful, understandable visualizations.
+I'm a passionate **Software Engineer** and [**Outreachy Intern**](https://www.outreachy.org/alums/2025-06/) contributing to the [**Fedora Project**](https://fedoraproject.org/), with a strong focus on backend development and data insights. I love solving complex problems and transforming raw data into meaningful, understandable visualizations.
 
 As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - one of Africa's leading external quality assessment provider I have gained valuable experience in building robust systems that make a real-world impact.
 
@@ -47,13 +47,13 @@ As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - one of Africa
 
 * ☁️ **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/9680beae-156a-4a7c-a5b6-1463f2134876)**
 * 🎓 **[ALX Africa Certified Data Scientist](https://savanna.alxafrica.com/certificates/FmPCRYe89r)**
-* 📈 **[DataCamp Certified Data Scientist](https://www.datacamp.com/certificate/DSA0011358609209)**  
+* 📈 **[DataCamp Certified Associate Data Scientist](https://www.datacamp.com/certificate/DSA0011358609209)**  
 
 ---
 
 ## 🚧 Currently Working On
 
-- 🐧 **Fedora Release Schedule Planner** - Contributing to better release planning and schedule management for Fedora versions
+- 🐧 [**Fedora Release Schedule Planner**](https://codeberg.org/fedora/release-schedule-planner) - Contributing to better release planning and schedule management for Fedora versions
 - 🔧 **Backend systems optimization** - Improving performance and scalability
 
 ## 📚 Currently Learning
@@ -65,6 +65,9 @@ As the **Lead Software Engineer** at [HuQAS](https://huqas.org/) - one of Africa
 ---
 
 ## 🎯 Featured Projects
+
+### 🗓️ [Fedora Release Schedule Planner](https://codeberg.org/fedora/release-schedule-planner)
+The Fedora Release Schedule Planner. An application that will be used by the Fedora Project to better manage their release schedules from setting milestones to assigning tasks.
 
 ### 🔗 [Afri Quantum Intelligence Solutions website](https://aqis-eight.vercel.app/)
 The website for Afri Quantum intelligence Solutions. A company that provides solutions to company challenges by leveraging AI.
