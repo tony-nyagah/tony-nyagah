@@ -54,4 +54,4 @@ I write about what I build, self-host, break, and figure out at [nyagah.me](http
 - [LinkedIn](https://www.linkedin.com/in/antony-nyagah/)
 - Email: tony.m.nyagah@gmail.com
 
-Away from the keyboard: hiking, the gym, my motorbike, and a gym log that's getting suspiciously detailed.
+Away from the keyboard: hiking, biking and touching grass.
